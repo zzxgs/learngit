@@ -1,2 +1,3 @@
 Git is distributed version control system
-Git if free software
+Git is free software
+Creating a new branch is 
